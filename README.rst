@@ -100,3 +100,14 @@ Materiały
 =========
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+
+TravisCI
+==========
+.. image:: https://travis-ci.org/yakushenko/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/yakushenko/se_hello_printer_app
+
+StatusCake
+==========
+.. image:: https://app.statuscake.com/button/index.php?Track=lEyv4RwdLz&Days=1&Design=1
+	:target: https://app.statuscake.com/UptimeStatus.php?tid=3976236
+
